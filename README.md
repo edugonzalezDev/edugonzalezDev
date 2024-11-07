@@ -1,4 +1,36 @@
+
+
 ## Hola, mi nombre es Eduardo 👋
+
+### 👨‍💻 Soy un Desarrollador FullStack en transición
+
+### 🚀 Tecnologías que quiero usar
+- React
+- TypeScript
+- Tailwind CSS
+- SASS
+- Java con Spring Boot
+- MySQL o MongoDB
+
+### 🎓 Actualmente estoy estudiando
+- Certified Tech Developer
+- GitHub
+
+### 🌱 Busco aprender
+- TypeScript
+- Tailwind CSS
+
+### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
+
+### 📫 Cómo contactarme
+- [Correo Electrónico](mailto:elduz.g@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/egonzalezy)
+
+### ⚡ Dato Curioso
+- Me gusta cocinar cerveza artesanal 🍻
+  
+
+
 
 <!--
 **edugonzalezDev/edugonzalezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
