@@ -8,9 +8,9 @@
 - [x] React
 - [ ] TypeScript
 - [ ] Tailwind CSS
-- [x] ReactSASS
-- [x] ReactJava con Spring Boot
-- [x] ReactMySQL o MongoDB
+- [x] SASS
+- [x] Java con Spring Boot
+- [x] MySQL o MongoDB
 
 ### 🎓 Actualmente estoy estudiando
 - Certified Tech Developer
