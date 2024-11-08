@@ -1,5 +1,3 @@
-
-
 ## Hola, mi nombre es Eduardo 👋
 
 ### 👨‍💻 Soy un Desarrollador FullStack en transición
@@ -13,7 +11,7 @@
 - [x] MySQL o MongoDB
 
 ### 🎓 Actualmente estoy estudiando
-- Certified Tech Developer
+- [Certified Tech Developer](https://www.digitalhouse.com/productos/programacion/certified-tech-developer)
 - GitHub Copilot
 
 ### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
@@ -24,10 +22,6 @@
 
 ### ⚡ Dato Curioso
 - Me gusta cocinar cerveza artesanal 🍻
-  
-
-
-
 <!--
 **edugonzalezDev/edugonzalezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
