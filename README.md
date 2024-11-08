@@ -5,20 +5,16 @@
 ### 👨‍💻 Soy un Desarrollador FullStack en transición
 
 ### 🚀 Tecnologías que quiero usar
-- React
-- TypeScript
-- Tailwind CSS
-- SASS
-- Java con Spring Boot
-- MySQL o MongoDB
+- [x] React
+- [ ] TypeScript
+- [ ] Tailwind CSS
+- [x] ReactSASS
+- [x] ReactJava con Spring Boot
+- [x] ReactMySQL o MongoDB
 
 ### 🎓 Actualmente estoy estudiando
 - Certified Tech Developer
-- GitHub
-
-### 🌱 Busco aprender
-- TypeScript
-- Tailwind CSS
+- GitHub Copilot
 
 ### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
 
