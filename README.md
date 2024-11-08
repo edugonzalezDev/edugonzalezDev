@@ -17,7 +17,7 @@
 ### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
 
 ### 📫 Cómo contactarme
-- [Correo Electrónico](mailto:elduz.g@gmail.com)
+- [Correo Electrónico](mailto:edugonzalezdev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/egonzalezy)
 
 ### ⚡ Dato Curioso
