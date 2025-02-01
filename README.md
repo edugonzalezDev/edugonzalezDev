@@ -2,17 +2,22 @@
 
 ### 👨‍💻 Soy un Desarrollador FullStack en transición
 
-### 🚀 Tecnologías que quiero usar
+### 🚀 Tecnologías que me gustaría usar
 - [x] React
 - [ ] TypeScript
 - [ ] Tailwind CSS
 - [x] SASS
 - [x] Java con Spring Boot
 - [x] MySQL o MongoDB
+- [x] GitHub Copilot
 
 ### 🎓 Actualmente estoy estudiando
-- [Certified Tech Developer](https://www.digitalhouse.com/productos/programacion/certified-tech-developer)
-- GitHub Copilot
+- [ ] [Certified Tech Developer](https://www.digitalhouse.com/productos/programacion/certified-tech-developer) (Proyecto final)
+
+### 🎓 Siguientes
+- [ ] Inglés
+- [ ] [Front End Developer](https://www.digitalhouse.com/productos/programacion/front-end-developer) (Especialización)
+- [ ] [Back End Developer](https://www.digitalhouse.com/productos/programacion/front-end-developer) (Especialización)
 
 ### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
 
