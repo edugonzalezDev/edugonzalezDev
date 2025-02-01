@@ -29,7 +29,6 @@ Soy un **Desarrollador FullStack** en formación con más de 10 años de experie
 ## 📫 Cómo contactarme
 📧 [Email](mailto:edugonzalezdev@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/egonzalezy)  
-👨‍💻 [GitHub](https://github.com/edugonzalezDev)    
 
 ### ⚡ Dato Curioso
 🍻 Me gusta cocinar cerveza artesanal
