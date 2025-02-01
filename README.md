@@ -4,8 +4,6 @@
 
 Soy un **Desarrollador FullStack** en formación con más de 10 años de experiencia en logística, actualmente en proceso de transición al desarrollo web. Me apasiona aprender nuevas tecnologías, trabajar en equipo y aplicar mis conocimientos para resolver problemas de manera eficiente.
 
----
-
 ## 🛠️ Tecnologías que me gustaría usar
 - [x] React
 - [ ] TypeScript
