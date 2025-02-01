@@ -4,6 +4,8 @@
 
 Soy un **Desarrollador FullStack** en formación con más de 10 años de experiencia en logística, actualmente en proceso de transición al desarrollo web. Me apasiona aprender nuevas tecnologías, trabajar en equipo y aplicar mis conocimientos para resolver problemas de manera eficiente.
 
+---
+
 ## 🛠️ Tecnologías que me gustaría usar
 - [x] React
 - [ ] TypeScript
@@ -14,7 +16,7 @@ Soy un **Desarrollador FullStack** en formación con más de 10 años de experie
 - [x] Git & GitHub
 - [x] GitHub Copilot
 
-### 🎓 Actualmente estoy estudiando
+## 🎓 Actualmente estoy estudiando
 - [ ] [Certified Tech Developer](https://www.digitalhouse.com/productos/programacion/certified-tech-developer) (Proyecto final)
 
 ### 🔜 Próximos 
@@ -24,7 +26,7 @@ Soy un **Desarrollador FullStack** en formación con más de 10 años de experie
 
 ### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
 
-### 📫 Cómo contactarme
+## 📫 Cómo contactarme
 📧 [Email](mailto:edugonzalezdev@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/egonzalezy)  
 👨‍💻 [GitHub](https://github.com/edugonzalezDev)    
