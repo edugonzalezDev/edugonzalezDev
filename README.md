@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/eduardo-gonzalez-og.png" alt="Eduardo González, Full Stack Developer y Agentic Engineering" width="1200">
+  <img src="./assets/eduardo-gonzalez-banner.png" alt="Eduardo González, Full Stack Developer y Agentic Engineering" width="1200">
   <h1>Eduardo González</h1>
   <p><strong>Full Stack Developer · Agentic Engineering</strong></p>
   <p>Uruguay</p>
