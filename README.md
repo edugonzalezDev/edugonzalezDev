@@ -1,48 +1,42 @@
-# 👋 ¡Hola! Soy Eduardo González  
+<div align="center">
+  <img src="./assets/eduardo-gonzalez-og.png" alt="Eduardo González, Full Stack Developer y Agentic Engineering" width="1200">
+  <h1>Eduardo González</h1>
+  <p><strong>Full Stack Developer · Agentic Engineering</strong></p>
+  <p>Uruguay</p>
+  <p><em>Entiendo el proceso. Diseño el sistema. Verifico el resultado.</em></p>
+  <p>
+    <a href="https://edugonzalez.dev">Portfolio</a> ·
+    <a href="https://www.linkedin.com/in/edugonzalezdev/">LinkedIn</a> ·
+    <a href="mailto:edugonzalezdev@gmail.com">Email</a>
+  </p>
+</div>
 
-### 🚀 Desarrollador FullStack en transición  
+Durante más de 10 años trabajé comprendiendo procesos logísticos y operativos. Hoy convierto esa complejidad en software mantenible: investigo el problema, especifico la solución y uso flujos de IA aplicada bajo dirección humana para implementar, verificar y documentar cada resultado.
 
-Soy un **Desarrollador FullStack** en formación con más de 10 años de experiencia en logística, actualmente en proceso de transición al desarrollo web. Me apasiona aprender nuevas tecnologías, trabajar en equipo y aplicar mis conocimientos para resolver problemas de manera eficiente.
+## Qué construyo
 
----
+- Sistemas internos y herramientas para procesos operativos.
+- Paneles que convierten datos en visibilidad para decidir.
+- Integraciones y automatizaciones que reducen trabajo manual.
+- Aplicaciones full stack mantenibles, con límites y validaciones explícitos.
 
-## 🛠️ Tecnologías que me gustaría usar
-- [x] React
-- [ ] TypeScript
-- [ ] Tailwind CSS
-- [x] SASS
-- [x] Java con Spring Boot
-- [x] MySQL o MongoDB
-- [x] Git & GitHub
-- [x] GitHub Copilot
+## Cómo trabajo
 
-## 🎓 Actualmente estoy estudiando
-- [ ] [Certified Tech Developer](https://www.digitalhouse.com/productos/programacion/certified-tech-developer) (Proyecto final)
+**Diagnóstico → Especificación → Implementación → Verificación**
 
-### 🔜 Próximos 
-- [ ] Inglés
-- [ ] Especialización en [Front End Developer](https://www.digitalhouse.com/productos/programacion/front-end-developer)
-- [ ] Especialización en [Back End Developer](https://www.digitalhouse.com/productos/programacion/back-end-developer)
+Uso IA como herramienta dentro de un proceso controlado: la dirección, los criterios y la decisión final siguen siendo humanos. El objetivo no es producir más código, sino reducir incertidumbre y entregar evidencia verificable.
 
-### 💼 Me entusiasma poner en práctica lo que voy aprendiendo
+## Experiencia y formación
 
-## 📫 Cómo contactarme
-📧 [Email](mailto:edugonzalezdev@gmail.com)  
-💼 [LinkedIn](https://www.linkedin.com/in/egonzalezy)  
+- Más de 10 años de experiencia en operaciones y logística.
+- **Certified Tech Developer** — completado en 2025.
+- **IA Engineering**, UTEC + 4Geeks — en curso.
+- **IA para Programadores**, Digital House — completado.
 
-### ⚡ Dato Curioso
-🍻 Me gusta cocinar cerveza artesanal
-<!--
-**edugonzalezDev/edugonzalezDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Fuera del código
 
-Here are some ideas to get you started:
+Disfruto elaborar cerveza artesanal. **Bisbier** conecta ese interés con el diseño de producto y el desarrollo de software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Contacto
+
+[Portfolio](https://edugonzalez.dev) · [LinkedIn](https://www.linkedin.com/in/edugonzalezdev/) · [edugonzalezdev@gmail.com](mailto:edugonzalezdev@gmail.com)
